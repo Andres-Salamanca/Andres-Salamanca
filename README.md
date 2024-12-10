@@ -7,14 +7,8 @@
 ## 🚀 Skills and Expertise
 
 ### 🖥️ Programming Languages:
--  ![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cplusplus&color=36465D&logoColor=AAA&style=flat-square&link=), ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=), ![java](https://img.shields.io/static/v1?logo=openjdk&label=&message=java&color=36465D&logoColor=AAA&style=flat-square), ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square), ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
+-  ![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cplusplus&color=36465D&logoColor=AAA&style=flat-square&link=) ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=) ![java](https://img.shields.io/static/v1?logo=openjdk&label=&message=java&color=36465D&logoColor=AAA&style=flat-square) ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square) ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
 - Interested in learning: **LLVM**, **MLIR**
-
-### 💻 Tools and Platforms:
-- **Linux**, **Docker**, **AWS**
-- Cross-architecture experience: [aarch64|arm64|armv7|arm|i686|x86|x86_64|x64]
-
----
 
 ## 📘 Interests
 - Building and optimizing compilers  
